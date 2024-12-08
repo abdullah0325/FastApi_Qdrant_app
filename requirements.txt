@@ -1,0 +1,16 @@
+streamlit
+pydantic
+fastapi
+uvicorn
+requests
+openai
+pypdf
+qdrant-client
+langchain
+
+langchain-qdrant
+langchain-openai
+sentence-transformers
+-qU 
+langchain-community
+pymupdf
